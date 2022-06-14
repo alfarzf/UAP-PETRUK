@@ -1,4 +1,4 @@
-# UAP-PETRUK
+# UAP PETRUK
 Nama Kelompok
 1. Alfa Rizki Fadlillah
 2. Muhammad Rafi Satria
